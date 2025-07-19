@@ -1,10 +1,10 @@
 baseURL = "https://journey.nxtlvl.id/"  # ganti sesuai kebutuhan
 languageCode = "id"
-title = "Renungan Harian"
+title = "My Journey"
 theme = "PaperMod"
 
 [params]
-  homeInfoParams = { Title = "my Journey", Content = "Daily Bread" }
+  homeInfoParams = { Title = "", Content = "Daily Bread" }
   ShowReadingTime = false
   ShowShareButtons = false
   ShowPostNavLinks = true
