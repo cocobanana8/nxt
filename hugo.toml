@@ -1,3 +1,26 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://renungan.nxtlvl.id/"  # ganti sesuai kebutuhan
+languageCode = "id"
+title = "Renungan Harian"
+theme = "PaperMod"
+
+[params]
+  homeInfoParams = { Title = "Renungan Harian", Content = "Makanan rohani setiap hari" }
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = false
+  ShowCodeCopyButtons = false
+  ShowWordCount = false
+  disableThemeToggle = true
+  defaultTheme = "light"
+
+[menu]
+  [[menu.main]]
+    name = "Beranda"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Tentang"
+    url = "/tentang/"
+    weight = 2
