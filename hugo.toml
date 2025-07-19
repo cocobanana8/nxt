@@ -1,4 +1,4 @@
-baseURL = "https://renungan.nxtlvl.id/"  # ganti sesuai kebutuhan
+baseURL = "https://journey.nxtlvl.id/"  # ganti sesuai kebutuhan
 languageCode = "id"
 title = "Renungan Harian"
 theme = "PaperMod"
