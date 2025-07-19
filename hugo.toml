@@ -4,7 +4,7 @@ title = "Renungan Harian"
 theme = "PaperMod"
 
 [params]
-  homeInfoParams = { Title = "Renungan Harian", Content = "Makanan Rohani Setiap Hari" }
+  homeInfoParams = { Title = "my Journey", Content = "Daily Bread" }
   ShowReadingTime = false
   ShowShareButtons = false
   ShowPostNavLinks = true
