@@ -14,9 +14,7 @@ theme = "PaperMod"
   disableThemeToggle = true
   defaultTheme = "light"
   mainSections = ["journey"]
-  assets = ["css/custom.css"]
-[params.assets]
-  disableFingerprinting = true
+ [params.assets]
   customCSS = ["css/custom.css"]
 
 [menu]
