@@ -4,7 +4,6 @@ title = "My Journey"
 theme = "PaperMod"
 
 [params]
-  homeInfoParams = { Title = "", Content = "Daily Bread" }
   ShowReadingTime = false
   ShowShareButtons = false
   ShowPostNavLinks = true
@@ -23,7 +22,4 @@ theme = "PaperMod"
     url = "/"
     weight = 1
 
-  [[menu.main]]
-    name = "Tentang"
-    url = "/tentang/"
-    weight = 2
+  
